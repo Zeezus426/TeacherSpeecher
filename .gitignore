@@ -1,0 +1,6 @@
+.venv/
+cohere-transcribe-local/
+.idea/
+*.pyc
+__pycache__/
+.DS_Store
